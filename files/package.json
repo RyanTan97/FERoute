@@ -1,0 +1,13 @@
+{
+  "name": "737-800-simulator-menu",
+  "version": "1.0.0",
+  "description": "Route menu for a flight simulator",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "multer": "^1.4.5"
+  }
+}
